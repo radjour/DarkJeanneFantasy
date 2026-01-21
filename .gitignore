@@ -1,0 +1,36 @@
+# Unreal Engine generated
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+
+# Build artifacts
+Build/
+
+# Ignore heavy assets
+Content/Characters/
+Content/Collections/
+Content/ControlRig/
+Content/Dark_Knight/
+Content/Developers/
+Content/DirtyStoneTile_material/
+Content/Dungeon/
+Content/Fab/
+Content/LevelPrototyping/
+Content/Pack_Bonus/
+Content/ParagonRampage/
+Content/ParagonRevenant/
+Content/ParagonSevarog/
+Content/ParagonSunWukong/
+Content/RamsterZ_FreeAnims_Volume1/
+Content/Realistic2KMaterial/
+Content/ShadowKight/
+Content/Skeleton_Necromancer/
+Content/StarterContent/
+Content/ZombieAnimationPack/
+
+# Keep logic
+!Content/ThirdPerson/
+!Content/Input/
